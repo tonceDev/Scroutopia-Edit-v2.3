@@ -4,8 +4,17 @@ An Edit of the [PvP Scroutopia](https://modrinth.com/resourcepack/pvp-) Texture 
 
 Polytone is optional for colored XP text.
 
-### CREDITS:
-- [Base Texture Pack](https://modrinth.com/resourcepack/pvp-) by [Scroutop](https://modrinth.com/user/Scroutop)
-- [Spears](https://modrinth.com/resourcepack/aegeus-3d-spears) by [Aegeus](https://modrinth.com/user/Aegeus)
-- [Brewing Stand Idea](https://modrinth.com/resourcepack/brandons-brewing-guide) by [DevError000](https://modrinth.com/user/DevError000)
-- [Totem Pop Sound](https://youtu.be/DeumyOzKqgI?si=81laB-oJ0kzCEN96&t=32) by [Adele](https://en.wikipedia.org/wiki/Adele) (lol)
+### I Changed:
+- UI
+- Items (other than the Apple)
+- Effect Particles
+- End Crystal
+- Totem Sound
+- XP Bar Color
+
+### Credits & Licensing
+This project contains assets from [PvP Scroutopia](https://modrinth.com/resourcepack/pvp-)/[Scroutop](https://modrinth.com/user/Scroutop), which is licensed under the Apache License 2.0. 
+* Original Project: https://modrinth.com/resourcepack/pvp-
+* License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+In accordance with the Apache 2.0 License, a copy of the license is included in the project files, and notice is hereby given of the original work.
